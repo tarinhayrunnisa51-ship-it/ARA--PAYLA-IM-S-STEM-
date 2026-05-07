@@ -57,4 +57,3 @@ Sistem ilk kez çalıştırıldığında otomatik olarak şu hesabı oluşturur:
 Şifreler veritabanında asla düz metin (plaintext) olarak saklanmaz. Her kullanıcıya özel rastgele bir `salt` değeri ile hash'lenerek saklanır ve zamanlama saldırılarına (timing attacks) karşı korunur.
 
 ---
-*Geliştirici: Beko*
