@@ -1,0 +1,82 @@
+[
+  {
+    "arac_id": 1,
+    "marka": "Renault",
+    "model": "Clio",
+    "kilometre": 45000,
+    "musait_mi": false,
+    "saatlik_ucret": 90.0
+  },
+  {
+    "arac_id": 2,
+    "marka": "Volkswagen",
+    "model": "Polo",
+    "kilometre": 32000,
+    "musait_mi": false,
+    "saatlik_ucret": 110.0
+  },
+  {
+    "arac_id": 3,
+    "marka": "Fiat",
+    "model": "Egea",
+    "kilometre": 58000,
+    "musait_mi": true,
+    "saatlik_ucret": 85.0
+  },
+  {
+    "arac_id": 4,
+    "marka": "Toyota",
+    "model": "Corolla",
+    "kilometre": 27000,
+    "musait_mi": false,
+    "saatlik_ucret": 150.0
+  },
+  {
+    "arac_id": 5,
+    "marka": "Hyundai",
+    "model": "i20",
+    "kilometre": 61000,
+    "musait_mi": true,
+    "saatlik_ucret": 80.0
+  },
+  {
+    "arac_id": 6,
+    "marka": "Ford",
+    "model": "Focus",
+    "kilometre": 73000,
+    "musait_mi": true,
+    "saatlik_ucret": 120.0
+  },
+  {
+    "arac_id": 7,
+    "marka": "Peugeot",
+    "model": "301",
+    "kilometre": 89000,
+    "musait_mi": true,
+    "saatlik_ucret": 95.0
+  },
+  {
+    "arac_id": 8,
+    "marka": "Honda",
+    "model": "Civic",
+    "kilometre": 15000,
+    "musait_mi": false,
+    "saatlik_ucret": 180.0
+  },
+  {
+    "arac_id": 9,
+    "marka": "Dacia",
+    "model": "Duster",
+    "kilometre": 42000,
+    "musait_mi": true,
+    "saatlik_ucret": 100.0
+  },
+  {
+    "arac_id": 10,
+    "marka": "Skoda",
+    "model": "Fabia",
+    "kilometre": 110000,
+    "musait_mi": true,
+    "saatlik_ucret": 85.0
+  }
+]

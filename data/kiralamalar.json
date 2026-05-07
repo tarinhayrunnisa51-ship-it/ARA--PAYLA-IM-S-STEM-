@@ -1,0 +1,86 @@
+[
+  {
+    "kiralama_id": 1,
+    "arac_id": 9,
+    "kullanici_id": 1,
+    "baslangic_saati": "2026-04-30T18:09:28.241410",
+    "bitis_saati": "2026-04-30T23:09:28.241410"
+  },
+  {
+    "kiralama_id": 2,
+    "arac_id": 10,
+    "kullanici_id": 2,
+    "baslangic_saati": "2026-04-27T18:09:28.241410",
+    "bitis_saati": "2026-04-27T20:09:28.241410"
+  },
+  {
+    "kiralama_id": 3,
+    "arac_id": 1,
+    "kullanici_id": 4,
+    "baslangic_saati": "2026-04-23T18:09:28.241410",
+    "bitis_saati": "2026-04-24T01:09:28.241410"
+  },
+  {
+    "kiralama_id": 4,
+    "arac_id": 2,
+    "kullanici_id": 6,
+    "baslangic_saati": "2026-04-17T18:09:28.241410",
+    "bitis_saati": "2026-04-17T22:09:28.241410"
+  },
+  {
+    "kiralama_id": 5,
+    "arac_id": 3,
+    "kullanici_id": 5,
+    "baslangic_saati": "2026-05-04T18:09:28.241410",
+    "bitis_saati": "2026-05-04T22:09:28.241410"
+  },
+  {
+    "kiralama_id": 6,
+    "arac_id": 5,
+    "kullanici_id": 6,
+    "baslangic_saati": "2026-05-05T18:09:28.241410",
+    "bitis_saati": "2026-05-06T00:09:28.241410"
+  },
+  {
+    "kiralama_id": 7,
+    "arac_id": 6,
+    "kullanici_id": 7,
+    "baslangic_saati": "2026-05-02T18:09:28.241410",
+    "bitis_saati": "2026-05-02T21:09:28.241410"
+  },
+  {
+    "kiralama_id": 8,
+    "arac_id": 7,
+    "kullanici_id": 8,
+    "baslangic_saati": "2026-05-03T18:09:28.241410",
+    "bitis_saati": "2026-05-04T02:09:28.241410"
+  },
+  {
+    "kiralama_id": 9,
+    "arac_id": 1,
+    "kullanici_id": 1,
+    "baslangic_saati": "2026-05-07T15:09:28.241410",
+    "bitis_saati": null
+  },
+  {
+    "kiralama_id": 10,
+    "arac_id": 2,
+    "kullanici_id": 2,
+    "baslangic_saati": "2026-05-07T16:09:28.241410",
+    "bitis_saati": null
+  },
+  {
+    "kiralama_id": 11,
+    "arac_id": 4,
+    "kullanici_id": 3,
+    "baslangic_saati": "2026-05-07T13:09:28.241410",
+    "bitis_saati": null
+  },
+  {
+    "kiralama_id": 12,
+    "arac_id": 8,
+    "kullanici_id": 4,
+    "baslangic_saati": "2026-05-07T17:09:28.241410",
+    "bitis_saati": null
+  }
+]

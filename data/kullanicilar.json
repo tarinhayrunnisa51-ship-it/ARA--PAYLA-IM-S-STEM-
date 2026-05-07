@@ -1,0 +1,42 @@
+[
+  {
+    "kullanici_id": 1,
+    "ad": "Beko Yılmaz",
+    "ehliyet_no": "482916"
+  },
+  {
+    "kullanici_id": 2,
+    "ad": "Ali Demir",
+    "ehliyet_no": "317582"
+  },
+  {
+    "kullanici_id": 3,
+    "ad": "Ayşe Kaya",
+    "ehliyet_no": "624871"
+  },
+  {
+    "kullanici_id": 4,
+    "ad": "Mehmet Şahin",
+    "ehliyet_no": "195437"
+  },
+  {
+    "kullanici_id": 5,
+    "ad": "Zeynep Arslan",
+    "ehliyet_no": "738264"
+  },
+  {
+    "kullanici_id": 6,
+    "ad": "Can Öztürk",
+    "ehliyet_no": "561923"
+  },
+  {
+    "kullanici_id": 7,
+    "ad": "Selin Yıldız",
+    "ehliyet_no": "843617"
+  },
+  {
+    "kullanici_id": 8,
+    "ad": "Murat Koç",
+    "ehliyet_no": "279548"
+  }
+]
